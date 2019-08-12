@@ -3,4 +3,4 @@ An Implementation of Conditional Variational Autoencoders for MNIST.
 
 ### Results
 
-![results](/images/result.gif)
+![results](/images/gif/result.gif)
